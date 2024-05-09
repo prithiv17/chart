@@ -1,0 +1,23 @@
+.filters-container {
+  border: 1px solid;
+  padding: 10px;
+  height: 100%;
+  position: relative;
+}
+.filters-header {
+  margin: 5px;
+}
+/* .filters-header,
+  .filters-clear {
+    display: block;
+    position: relative;
+    margin-bottom: 2em;
+    clear: both;
+  } */
+
+.filters-header {
+  float: left;
+}
+.filters-clear {
+  float: right;
+}
